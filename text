@@ -1,0 +1,1 @@
+cd school-timetable/backend && source ../../venv_311/bin/activate && uvicorn main:app --host localhost --port 8000 --reload
